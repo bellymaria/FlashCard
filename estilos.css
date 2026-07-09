@@ -1,3 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.inicio{ 
+    padding: 15px 25px;
+}
+   
+    .mensagem{
+        width: 268px;
+        height: 200px;
+    }
+   
+   .mensagem-frente, .mensagem-verso{
+    width: 100%;
+   }
+   
+
 
 
 ]
